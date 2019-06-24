@@ -19,6 +19,7 @@ export default class MyDocument extends Document {
           <link rel="stylesheet" href="https://cdn.auth0.com/styleguide/components/2.0.0/components.min.css" />
           <link rel="stylesheet" type="text/css" charSet="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" /> 
           <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
+          <meta name="google-site-verification" content="IXxB6hv45d2ZH_S9bHfRP5M45c9_K9287ia6saqJXvw" />
         </Head>
         <body className="identicons-page">
           <Main />
