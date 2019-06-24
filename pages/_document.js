@@ -11,6 +11,7 @@ export default class MyDocument extends Document {
       <html>
         <Head>
           <title>Identicons - Royalty-free, free Identity icons from Auth0</title>
+          <meta name="description" content="Get royalty-free identity icons. A visual language for identity - open source project from Auth0’s Guillermo Mesyngier and Vittorio Bertocci. For use in presentations, specifications and documentation.">
           <link rel="apple-touch-icon" sizes="180x180" href="./static/favicons/apple-touch-icon.png"></link>
           <link rel="icon" type="image/png" sizes="32x32" href="./static/favicons/favicon-32x32.png"></link>
           <link rel="icon" type="image/png" sizes="16x16" href="./static/favicons/favicon-16x16.png"></link>
