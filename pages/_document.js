@@ -20,6 +20,21 @@ export default class MyDocument extends Document {
           <link rel="stylesheet" href="https://cdn.auth0.com/styleguide/components/2.0.0/components.min.css" />
           <link rel="stylesheet" type="text/css" charSet="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" /> 
           <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
+          <meta property="og:title" content="Identicons - Royalty-free, free Identity icons from Auth0">
+          <meta property="og:site_name" content="Identicons.dev by Auth0">
+          <meta property="og:url" content="https://identicons.dev/">
+          <meta property="og:image" content="https://cdn.auth0.com/website/assets/pages/identicons/img/twitter-card.png">
+          <meta property="og:description" content="Get royalty-free identity icons. A visual language for identity - open source project from Auth0’s Guillermo Mesyngier and Vittorio Bertocci. For use in presentations, specifications and documentation.">
+          <meta property="og:type" content="website">
+          <meta name="twitter:site" content="@auth0">
+          <meta name="twitter:creator" content="@auth0">
+          <meta name="twitter:title" content="Identicons - Royalty-free, free Identity icons from Auth0">
+          <meta name="twitter:url" content="https://identicons.dev/">
+          <meta name="twitter:description" content="Get royalty-free identity icons. A visual language for identity - open source project from Auth0’s Guillermo Mesyngier and Vittorio Bertocci. For use in presentations, specifications and documentation.">
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:image" content="https://cdn.auth0.com/website/assets/pages/identicons/img/twitter-card.png">
+          <meta name="twitter:image:height" content="512">
+          <meta name="twitter:image:width" content="1024">
           <script type="application/ld+json">
             {
                 "@context": "http://schema.org",
